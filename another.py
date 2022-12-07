@@ -1,7 +1,7 @@
 import socket
 
 def main():
-    print("blablabla")
+    print("ophir")
 
 
     
